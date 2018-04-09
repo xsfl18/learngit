@@ -6,4 +6,4 @@ Git tracks change
 Git change
 stupid boss
 Creating a new branch is quick
-Creatinf a new branch is quick & simple
+Creating a new branch is quick and simple
